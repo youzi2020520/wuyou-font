@@ -3,7 +3,7 @@
 /* ---------------------------------- */
 
 :root {
-    --color-primary: #007bff; /* 主蓝色调，模仿原网站的链接和按钮颜色 */
+    --color-primary: #28a745; /* 主绿色调，模仿原网站的链接和按钮颜色 */
     --color-text: #333;
     --color-light-gray: #f8f8f8;
     --color-border: #eee;
